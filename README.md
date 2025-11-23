@@ -1,4 +1,4 @@
-This is a small sample of a puzzle dungeon escape game I made by studying and applying all the knowledge i got from a Udemy Course by Kaan Alpar, all rights reserved. All assets were free from the FAB store. Assets where: Medieval Dungeon and UE starter content.
+This is a small sample of a puzzle dungeon escape game I made by studying and applying all the knowledge i got from a Udemy Course by Kaan Alpar, all rights reserved.
 
 In this game i learnt the following topics:
 
